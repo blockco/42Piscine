@@ -1,0 +1,6 @@
+Credentials cache: API:19675
+        Principal: rpassafa@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 12 19:26:48 2016  Jul 13 05:26:48 2016  krbtgt/42.US.ORG@42.US.ORG
+Jul 12 19:34:46 2016  Jul 13 05:26:48 2016  host/vgs-fn1.42.us.org@42.US.ORG
